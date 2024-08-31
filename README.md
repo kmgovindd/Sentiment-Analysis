@@ -15,8 +15,10 @@ This repository contains the implementation of a sentiment analysis project focu
 4. Visualization of sentiment distribution and model performance.
 
 ## Repository Structure
-** data/ **: Contains the raw and processed data.
-** notebooks/ **: Jupyter notebooks for data exploration, model training, and evaluation.
-** src/ **: Source code for data processing, model training, and evaluation scripts.
+1. **data/**: Contains the raw and processed data.
+
+2. **notebooks/**: Jupyter notebooks for data exploration, model training, and evaluation.
+
+3. **src/**: Source code for data processing, model training, and evaluation scripts.
 
 
